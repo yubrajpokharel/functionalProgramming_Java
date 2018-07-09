@@ -1,7 +1,5 @@
 package basics;
 
-import org.omg.PortableInterceptor.ORBInitInfoPackage.DuplicateName;
-
 /**
  * Created by ypokhrel on 12/27/2017.
  */
